@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# house-marketplace
+
+## House marketplace project built with React and Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
