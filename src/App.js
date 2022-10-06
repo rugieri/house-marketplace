@@ -29,7 +29,7 @@ function App() {
           <Route path="/forgot-password" element={<ForgotPassword />} />
           <Route path="/create-listing" element={<CreateListing />} />
           <Route
-            path="/category:categoryName/:listingId"
+            path="/category/:categoryName/:listingId"
             element={<Listing />}
           />
         </Routes>
