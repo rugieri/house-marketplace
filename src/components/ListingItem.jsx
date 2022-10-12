@@ -11,7 +11,7 @@ function ListingItem({ listing, id, onDelete }) {
         className="categoryListingLink"
       >
         <img
-          src={listing.imgUrls}
+          src={listing.imgUrls[0]}
           alt={listing.name}
           className="categoryListingImg"
         />
