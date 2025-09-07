@@ -6,7 +6,7 @@ import {
   query,
   orderBy,
   limit,
-  Timestamp,
+  timestamp,
 } from 'firebase/firestore';
 import { db } from '../firebase.config';
 import SwiperCore, { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
